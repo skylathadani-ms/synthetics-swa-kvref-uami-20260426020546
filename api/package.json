@@ -1,0 +1,12 @@
+{
+  "name": "swa-api",
+  "version": "1.0.0",
+  "description": "Azure Static Web Apps API for KeyVault reference validation",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0"
+  },
+  "devDependencies": {}
+}
